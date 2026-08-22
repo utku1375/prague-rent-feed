@@ -1,0 +1,1988 @@
+{
+ "criteria": {
+  "default_charges": 2000,
+  "default_electricity": 1000,
+  "monthly_cap": {
+   "bezrealitky": 15000,
+   "sreality": 14000
+  },
+  "move_by": "2026-10-01",
+  "movein_cap": 51000
+ },
+ "generated_at": "2026-08-22T12:09:25.885613Z",
+ "listings": [
+  {
+   "area": 30,
+   "available": null,
+   "charges_text": "",
+   "description": "Pronájem lůžka Praha 10 Uhřiněves\r\nNa pokoji je lednice s mrazákem a mikrovlnná trouba. Velká kuchyň k dispozici.Pokoj je velký 30.m² . Pouze muži. Ev. číslo: 656951.",
+   "district": "Uhříněves",
+   "furnished": "Ne",
+   "id": "833085516",
+   "is_room": false,
+   "layout": "Atypický",
+   "photos_in_sheet": 4,
+   "photos_total": 4,
+   "positives": [],
+   "price_note": "",
+   "rent": 7000.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-833085516.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/atypicky/praha-uhrineves-soumarska/833085516",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (7000 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (7000 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 10000,
+    "monthly_parts": [
+     [
+      "kira",
+      7000,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 24000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      10000,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      7000,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      7000,
+      true
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 15,
+   "available": null,
+   "charges_text": "",
+   "description": "Vyber si pokoj, který ti sedne nejvíc:\r\n\r\nKaždý pokoj má své kouzlo, ale některé nabízejí pořádný bonus:\r\nPokoj č. 1: Maximální soukromí s vlastní vybavenou kuchyní.\r\nPokoj č. 5: Pro milovníky ranní kávy v trávě  má přímý výstup na zahradu.\r\nPokoj č. 8: Perfektní pro relax s knížkou díky vlastnímu balkonu.\r\n\r\nCo všechno v BOOM House získáš?\r\nNeplatíš jen za pokoj, ale za celý životní prostor a nadstandardní zázemí:\r\nZahrada  and  Bazén: Obrovský benefit v podobě udržované zahrady s posezením, grilem a vlastním bazénem pro horké letní dny.\r\n\r\nSpolečné kuchyně: 2x plně vybavená kuchyně, kde je ti k dispozici varná deska, varná konvice a nádobí. Nechybí ani 2x myčka na nádobí.\r\n\r\nKoupelny bez front: V domě jsou 2x koupelna (s vanou i sprchovým koutem) a 3x samostatná toaleta.\r\n\r\nPrádelna: V suterénu domu je k dispozici pračka a sušička.\r\nParkování: Jezdíš autem? Parkování je zde zcela bez problému.\r\nPet-friendly: Chápeme, že parťák je důležitý  menší domácí mazlíčci jsou u nás vítáni.\r\nLokalita: Klid, příroda a skvělá dostupnost\r\nDům najdeš na adrese Jílovišťská 24, Praha 5 - Lipence. Jde o bezproblémovou a klidnou lokalitu hned u MHD.\r\nPřímo na zastávce: Autobusová zastávka  and #34;Ke Štěrkovně and #34; se nachází hned před domem (rychlé a přímé spojení na Smíchovské nádraží / metro B).\r\nOkolí: Zelená část Prahy kousek od Berounky. Ideální místo pro běh, kolo, inline brusle nebo vyčištění hlavy po náročném dni v práci či škole.\r\nChceš vidět pokoje naživo a vybrat si ten nejlepší dřív, než tě někdo předběhne? Napiš nám a domluv si prohlídku!\r\n\r\nPOKOJE OZNAČENÉ KYTIČKOU JSOU JIŽ OBSAZENÉ.\r\n",
+   "district": "Lipence",
+   "furnished": "Částečně",
+   "id": "1562042444",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 11,
+   "photos_total": 11,
+   "positives": [],
+   "price_note": "",
+   "rent": 10000.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-1562042444.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-lipence-jilovistska/1562042444",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (10000 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 13000,
+    "monthly_parts": [
+     [
+      "kira",
+      10000,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 33000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13000,
+      false
+     ],
+     [
+      "kauce",
+      10000,
+      false
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      10000,
+      true
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Komisyon tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 14,
+   "available": null,
+   "charges_text": "",
+   "description": "Naše společnost Vám zprostředkuje Pronájem pokoje Praha Bechovice. Pro více informaci volejte makléře. Ev. číslo: 655333.",
+   "district": "Běchovice",
+   "furnished": "Ne",
+   "id": "1231597644",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 9,
+   "photos_total": 9,
+   "positives": [],
+   "price_note": "+popl. 2000",
+   "rent": 10000.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-1231597644.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-bechovice-podnikatelska/1231597644",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (10000 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (10000 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 13000,
+    "monthly_parts": [
+     [
+      "kira",
+      10000,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 33000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13000,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      10000,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      10000,
+      true
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 11,
+   "available": null,
+   "charges_text": "",
+   "description": "Pronájem dvoulůžkového pokoje, Praha Bechovice. Pro více informaci mě kontaktujte telefonicky. Ev. číslo: 657283.",
+   "district": "Běchovice",
+   "furnished": "Ne",
+   "id": "468566092",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 5,
+   "photos_total": 5,
+   "positives": [],
+   "price_note": "+popl. 2000",
+   "rent": 10000.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-468566092.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-bechovice-podnikatelska-i/468566092",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (10000 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (10000 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 13000,
+    "monthly_parts": [
+     [
+      "kira",
+      10000,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 33000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13000,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      10000,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      10000,
+      true
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 18,
+   "available": null,
+   "charges_text": "",
+   "description": "Světlý vybavený pokoj na Žižkově – ideální pro studenty i mladé pracující \n\nNabízím k dlouhodobému pronájmu světlý a plně vybavený pokoj ve sdíleném bytě na pražském Žižkově. \n\nWi-Fi i veškeré poplatky jsou zahrnuty v ceně nájmu. Kauce činí jeden měsíční nájem a nájemné se hradí vždy do 25. dne předchozího měsíce. \n\nPokoj je ideální pro studenty i mladé pracující, kteří hledají příjemné bydlení s výbornou dostupností do centra. \n\nByt se nachází jen pár minut chůze od tramvajové zastávky Viktoria Žižkov, odkud je zajištěno výborné spojení do centra Prahy i na většinu vysokých škol. \n\nPokoj je vybaven pohodlnou postelí, prostornou šatní skříní a komodou. K dispozici je plně vybavená kuchyň, koupelna se sprchovým koutem a pračka. \n\nV případě zájmu mě neváhejte kontaktovat. Ráda vám poskytnu více informací a domluvíme si termín prohlídky.",
+   "district": "Žižkov",
+   "furnished": "- vyber vybavení",
+   "id": "2879180876",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 4,
+   "photos_total": 4,
+   "positives": [
+    "ogrencilere uygun"
+   ],
+   "price_note": "",
+   "rent": 8200.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-2879180876.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-zizkov-vlkova/2879180876",
+   "verdict": {
+    "assumptions": [
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (8200 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (8200 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": true,
+     "charges": 0,
+     "commission": null,
+     "deposit": null,
+     "elec_included": true,
+     "electricity": 0,
+     "no_commission": false,
+     "notes": [
+      "ilan metni her seyin fiyata dahil oldugunu soyluyor"
+     ],
+     "unknown": [
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 8200,
+    "monthly_parts": [
+     [
+      "kira",
+      8200,
+      false
+     ]
+    ],
+    "movein": 24600,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      8200,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      8200,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      8200,
+      true
+     ]
+    ],
+    "questions": [
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 17,
+   "available": null,
+   "charges_text": "",
+   "description": "Kompletně zařízený samostatný pokoj v novém viladomě nedaleko metro Opatov. Výhodná a velmi příjemná lokalita Praha – Hrnčíře nabízí poklidné bydlení v zeleni a přesto skvělou dopravní dostupnost – 6 min. autobusem na metro Opatov či Háje.\nPokoj je vybaven novým nábytkem, dvoulůžkovou postelí a kvalitní matrací.\nKvalitní eurookna, velká zahrada, pračky, designové koupelny, společenská kuchyň a jídelna.\n\nMěsíční nájem 9.250,- Kč + poplatek za služby, energie 2.750,- Kč.\nV ceně služeb je zahrnutý i vysokorychlostní WiFi internet a profesionální pravidelní úklid společných prostor, koupelen a kuchyně.\nVratná jistota je ve výší 12.000,- Kč. \n\nPokoj je určený pro jednu osobu a je připravený k nastěhování od 1.9.2026. \nPro více informací či sjednání prohlídky nás neváhejte kontaktovat spolu s krátkým představením o Vás.",
+   "district": "Šeberov",
+   "furnished": "- vyber vybavení",
+   "id": "668581964",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 9,
+   "photos_total": 9,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "+ 2750,- Kč poplatky za energie, služby a internet",
+   "rent": 9250.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-668581964.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-seberov-sladovnicka/668581964",
+   "verdict": {
+    "assumptions": [
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (9250 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 2750,
+     "commission": null,
+     "deposit": 12000,
+     "elec_included": true,
+     "electricity": 0,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "commission"
+     ]
+    },
+    "monthly": 12000,
+    "monthly_parts": [
+     [
+      "kira",
+      9250,
+      false
+     ],
+     [
+      "poplatky",
+      2750,
+      false
+     ]
+    ],
+    "movein": 33250,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      12000,
+      false
+     ],
+     [
+      "kauce",
+      12000,
+      false
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      9250,
+      true
+     ]
+    ],
+    "questions": [
+     "Komisyon tam olarak ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 12,
+   "available": null,
+   "charges_text": "",
+   "description": "Dovolujeme si Vám nabídnout pronájem bytu 1+kk, který se nachází v 1.NP moderní novostavby z roku 2019 na Praze 4. Plocha bytu je 12 m2. Topení dálkové ústřední. Nad kuchyní a koupelnou je vybudovaný prostor pro odpočinek. Výborná dopravní dostupností, hned vedle tramvajové zastávky. V okolí je kompletní občanská vybavenost. Nájemné činí 9.500,- Kč/měsíc, zálohy na služby ve výši 3.000,- Kč/měsíc. Elektřina se převádí na nájemce. Při podpisu nájemní smlouvy nutno složit vratnou kauci ve výši 12.500,- Kč a provize RK ve výši 12.500,- Kč. Volný ihned. Více informací v RK.",
+   "district": "Nusle",
+   "furnished": "- vyber vybavení",
+   "id": "4273262668",
+   "is_room": false,
+   "layout": "1+kk",
+   "photos_in_sheet": 11,
+   "photos_total": 11,
+   "positives": [],
+   "price_note": "+ poplatky 3000,-Kč/měsíc + elektřina",
+   "rent": 9500.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-4273262668.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/praha-nusle-rostislavova/4273262668",
+   "verdict": {
+    "assumptions": [
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 3000,
+     "commission": 12500,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "electricity",
+      "deposit"
+     ]
+    },
+    "monthly": 13500,
+    "monthly_parts": [
+     [
+      "kira",
+      9500,
+      false
+     ],
+     [
+      "poplatky",
+      3000,
+      false
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 38500,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13500,
+      false
+     ],
+     [
+      "kauce",
+      12500,
+      false
+     ],
+     [
+      "komisyon",
+      12500,
+      false
+     ]
+    ],
+    "questions": [
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 17,
+   "available": null,
+   "charges_text": "",
+   "description": "Pronájem lůžka - spolubydlení . Praha 9 Hloubětín. Jedná se o pronájem v domě ( převážně stálí nájemníci). Společná kuchyň a koupelna s WC. Pro více informací mě kontaktujte telefonicky. Ev. číslo: 657104.",
+   "district": "Hloubětín",
+   "furnished": "Ne",
+   "id": "3233992780",
+   "is_room": false,
+   "layout": "Atypický",
+   "photos_in_sheet": 6,
+   "photos_total": 6,
+   "positives": [],
+   "price_note": "+popl. 2000",
+   "rent": 5500.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-3233992780.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/atypicky/praha-hloubetin-pokorneho/3233992780",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (5500 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (5500 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 8500,
+    "monthly_parts": [
+     [
+      "kira",
+      5500,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 19500,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      8500,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      5500,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      5500,
+      true
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 14,
+   "available": null,
+   "charges_text": "",
+   "description": "Pronjáem dvolůžkového pokoje se zahradou a bazénem Praha 5, Lipence\r\n\r\nBOOM HOUSE Lipence - Coliving s bazénem a zahradou\r\n\r\nVyber si pokoj, který ti sedne nejvíc:\r\n\r\nCo všechno v BOOM House získáš?\r\nNeplatíš jen za pokoj, ale za celý životní prostor a nadstandardní zázemí:\r\nZahrada a Bazén: Obrovský benefit v podobě udržované zahrady s posezením, grilem a vlastním bazénem pro horké letní dny.\r\n\r\nSpolečné kuchyně: 2x plně vybavená kuchyně, kde je ti k dispozici varná deska, varná konvice a nádobí. Nechybí ani 2x myčka na nádobí.\r\n\r\nKoupelny bez front: V domě jsou 2x koupelna (s vanou i sprchovým koutem) a 3x samostatná toaleta.\r\n\r\nPrádelna: V suterénu domu je k dispozici pračka a sušička.\r\nParkování: Jezdíš autem? Parkování je zde zcela bez problému.\r\nPet-friendly: Chápeme, že parťák je důležitý menší domácí mazlíčci jsou u nás vítáni.\r\nLokalita: Klid, příroda a skvělá dostupnost\r\nDům najdeš na adrese Jílovišťská 24, Praha 5 - Lipence. Jde o bezproblémovou a klidnou lokalitu hned u MHD.\r\nPřímo na zastávce: Autobusová zastávka and #34;Ke Štěrkovně and #34; se nachází hned před domem (rychlé a přímé spojení na Smíchovské nádraží / metro B).\r\nOkolí: Zelená část Prahy kousek od Berounky. Ideální místo pro běh, kolo, inline brusle nebo vyčištění hlavy po náročném dni v práci či škole. Ev. číslo: 657300.",
+   "district": "Lipence",
+   "furnished": "Ne",
+   "id": "3265052748",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 7,
+   "photos_total": 7,
+   "positives": [],
+   "price_note": "+popl. 2000",
+   "rent": 6000.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-3265052748.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-lipence-jilovistska/3265052748",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (6000 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (6000 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 9000,
+    "monthly_parts": [
+     [
+      "kira",
+      6000,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 21000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      9000,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      6000,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      6000,
+      true
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 10,
+   "available": null,
+   "charges_text": "",
+   "description": "Neplatíte provizi. Pokoj 403-1 volný od 24.8.2026\r\nNabízíme k dlouhodobému nebo střednědobému pronájmu zařízený pokoj (č. 403-1) ve sdíleném bytu 3+1 ve skvělé lokalitě Prahy 6  Pohořelec, jen pár minut od Pražského hradu. Byt se nachází v historickém činžovním domě bez výtahu.\r\nNabízený pokoj (cca 10 m2):\r\nJednolůžková postel s matrací\r\nPracovní stůl, židle, lampička, komoda, šatní úložný prostor\r\nLůžkoviny včetně povlečení, závěs na okně\r\nPokoj je plně vybavený a připravený k nastěhování\r\nO bytu a vybavení:\r\nKaždý byt má 3 samostatné pokoje (zamykatelné)\r\nMaximálně 4 nájemci na byt (ohled na společné prostory)\r\nKoupelna s vanou, umyvadlem a úložnou skříňkou\r\nSamostatná toaleta\r\nSdílená kuchyň se základním vybavením: lednice, varná deska, digestoř, myčka, mikrovlnná trouba, rychlovarná konvice, základní nádobí\r\nSpolečná prádelna v suterénu domu (50 Kč praní / 50 Kč sušení)\r\nSkvělá dostupnost a lokalita:\r\nTramvajová zastávka Pohořelec (linky 22 a 23) a Malovanka (linky, 22, 23, 25 a bus 143, 149, 191)  je 2 minuty chůze od domu\r\nMetro Malostranská (linka A) dostupné tramvají do 10 minut\r\nV bezprostřední blízkosti: Petřínské sady, potraviny, obchody, kavárny a restaurace  vše v docházkové vzdálenosti\r\nCena a podmínky:\r\nCena celkem: 15.500 Kč / měsíc (včetně všech poplatků, energií a internetu Wi-Fi)\r\nKauce: 1 měsíční nájem včetně poplatků\r\nPotvrzení o ubytování na vyžádání.\r\nVhodné pro: Studenty a mladé pracující, kteří hledají bydlení v klidném a inspirativním prostředí s dobrou dostupností do centra.\r\nDostupnost:\r\nPokoj 403-1 (4. patro) od 24.8.2026\r\n\r\n",
+   "district": "Střešovice",
+   "furnished": "Ano",
+   "id": "3861762124",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 11,
+   "photos_total": 11,
+   "positives": [],
+   "price_note": "2000 Kč včetně služeb, energií a internetu ",
+   "rent": 13500.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-3861762124.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-stresovice-/3861762124",
+   "verdict": {
+    "assumptions": [
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (13500 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": true,
+     "charges": 0,
+     "commission": 0,
+     "deposit": null,
+     "elec_included": true,
+     "electricity": 0,
+     "no_commission": true,
+     "notes": [
+      "ilan metni her seyin fiyata dahil oldugunu soyluyor"
+     ],
+     "unknown": [
+      "deposit"
+     ]
+    },
+    "monthly": 13500,
+    "monthly_parts": [
+     [
+      "kira",
+      13500,
+      false
+     ]
+    ],
+    "movein": 27000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13500,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      13500,
+      true
+     ]
+    ],
+    "questions": [
+     "Kauce kac aylik kira?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 10,
+   "available": null,
+   "charges_text": "",
+   "description": "Zprostředkujeme Vám pronájem částečně zařízeného pokoje o ploše 10,4 m2 ( 2,2 x 4,8 m ), situovaného v bytové jednotce 3+1 o celkové užitné ploše 72,7 m2, nacházející se ve čtvrtém patře cihlového domu, v lukrativní lokalitě Prahy 10 – Vršovic, ulice Norská, v bezprostřední blízkosti parku Heroldovy sady. \r\n\r\n\r\nDispozičně velmi prakticky řešená bytová jednotka prošla v nedávné minulosti částečnou rekonstrukci. Byla položená nová plovoucí laminátová podlaha v obývacím pokoji a hale. Byla vyměněna okna v celém bytě, proběhla výměna a renovace některých dveří, byla zakoupena nová lednice a myčka nádobí, následně byla celá bytová jednotka nově vymalována. V roce 2023 byla ukončena i kompletní rekonstrukce domu ( nový výtah, vnitřní prostory, fasáda ). \r\n\r\n\r\nVstupem do bytu se ocitnete v chodbičce propojené s halou o ploše 10,5 m2, z které se hned po levé straně od vstupu dostanete do kuchyně o ploše 3,14 x 2,63 m ( 8,3 m2 ) s kuchyňským koutem, plynovým sporákem, digestoří, mikrovlnkou, varnou konvicí, dřezem, novou lednicí s mrazákem a novou myčkou nádobí. Z kuchyně je ještě vstup do menší komory. Před kuchyní je umístěna koupelna o ploše 1,8 x 1,6 m ( 2,9 m2 ) s vanou, umývadlem se zrcadlem a pračkou. Hned vedle koupelny se nachází samostatná toaleta. Z předsíně je po levé straně vstup do jednoho z pokojů a zároveň do malé chodbičky, která je oddělena od haly dveřmi. Z chodbičky je následně po levé straně vstup do pokoje, který je předmětem této nabídky. Pokoj o ploše 10,4 m2 ( 2,2 x 4,8 m ) se nabízí bez vybavení, vybavení na fotkách je ve vlastnictví stávajícího nájemníka. Na podlaze pokoje je položen koberec. Hned naproti je umístěn třetí z pokojů. V chodbičce, z které je vstup do obou pokojů, se nachází prostorná skříň, na podlaze je plovoucí laminátová podlaha.  \r\n\r\n\r\nTopení je dálkové z plynové kotelny umístěné přímo v suterénu domu. V případě zájmu, je také možnost využívání balkonu v mezipatře domu. Dům je situován v centru Vršovic, hned vedle Heroldových sadů nebo náměstí Svatopluka Čecha s vynikající občanskou vybaveností a dopravní dostupností. Jenom 5 min. pěšky je od domu vzdálená zastávka tramvaje Vršovické náměstí ( Tram č.13, 22, 4, 99 a 97 ) s dostupností do stanice metra ,,A“ Náměstí Míru, nebo stanice metra ,,C“ I.P.Pavlova a do centra se tak dostanete do 20 min. V docházkové vzdálenosti se nachází, pošta, banky, obchody, kavárny, restaurace, nebo o něco vzdálenější Nákupní centrum Eden.  \r\n\r\n\r\nV případě, že hledáte pronájem pokoje v rámci",
+   "district": "Vršovice",
+   "furnished": "Ne",
+   "id": "2748789324",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 19,
+   "photos_total": 19,
+   "positives": [],
+   "price_note": "poplatky 2.159,- Kč, včetně pojištění bytu, záloh na plyn a elektřinu",
+   "rent": 7667.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-2748789324.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-vrsovice-norska/2748789324",
+   "verdict": {
+    "assumptions": [
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (7667 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (7667 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 2159,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 10826,
+    "monthly_parts": [
+     [
+      "kira",
+      7667,
+      false
+     ],
+     [
+      "poplatky",
+      2159,
+      false
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 26160,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      10826,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      7667,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      7667,
+      true
+     ]
+    ],
+    "questions": [
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 15,
+   "available": null,
+   "charges_text": "",
+   "description": "Pronájem lůžka v pokoji 15m², Praha Čakovice. Pokoj se pronajímá dlouhodobě i krátkodobě a je vybaven nábytkem. Koupelna WC, kuchyně společná. Pro více informací kontaktujte makléře. Ev. číslo: 655062.",
+   "district": "Čakovice",
+   "furnished": "Ne",
+   "id": "2655732556",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 4,
+   "photos_total": 4,
+   "positives": [],
+   "price_note": "",
+   "rent": 7800.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-2655732556.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-cakovice-cukrovarska/2655732556",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (7800 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (7800 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 10800,
+    "monthly_parts": [
+     [
+      "kira",
+      7800,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 26400,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      10800,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      7800,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      7800,
+      true
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 25,
+   "available": null,
+   "charges_text": "",
+   "description": "Soccer Reality vám zprostředkuje pronájem světlého bytu 1+kk s lodžií a sklepem o celkové výměře 25 m2 v žádané a klidné lokalitě Praha 8 – Troja, ulice Písečná.\r\n\r\nToužíte po klidném a bezpečném bydlení s nádherným výhledem a velkorysou lodžií? Oceníte také prostorný, uzamykatelný sklep, kam pohodlně uložíte vše potřebné?\r\n\r\nByt s úžasným výhledem se nachází v 6. patře udržovaného panelového domu, pouhé 3 minuty autobusem od metra C – Kobylisy. Lokalita nabízí ideální kombinaci zeleně, klidu a výborné dostupnosti do centra.\r\n\r\nByt je v původním stavu a disponuje základním vybavením – kuchyňskou linkou v kuchyňském koutě s oknem, lednicí, plynovým sporákem, sedačkou a postelí. Koupelna má umakartové jádro. Velkou předností je prostorná lodžie, která poskytuje příjemné místo pro relax a krásný výhled do okolí.\r\n\r\nV suterénu domu je k dispozici praktický, uzamykatelný sklep o velikosti cca 3 m2, ideální pro uskladnění kol, lyží, pneumatik či sezónních věcí.\r\n\r\nV docházkové vzdálenosti od metra Kobylisy najdete kompletní občanskou vybavenost – obchody, restaurace, kavárny i další služby. Samozřejmostí je výborná dostupnost MHD – tramvaje, autobusy i metro C.\r\n\r\nDomácí mazlíček (kočka, králík apod.) nevadí.\r\n\r\nByt je volný až od 1.6.2026\r\n\r\nPokud hledáte dostupné bydlení s výhledem, lodžií a skvělou dostupností, tento byt je pro vás ideální volbou.",
+   "district": "Troja",
+   "furnished": "Částečně",
+   "id": "3799409484",
+   "is_room": false,
+   "layout": "1+kk",
+   "photos_in_sheet": 12,
+   "photos_total": 12,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "+3.500,-Kč/ měsíc poplatky včetně energií, druhá osoba +500,-Kč/m",
+   "rent": 13000.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-3799409484.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/praha-troja-pisecna/3799409484",
+   "verdict": {
+    "assumptions": [
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (13000 Kc)",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (13000 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 500,
+     "commission": null,
+     "deposit": null,
+     "elec_included": true,
+     "electricity": 0,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 13500,
+    "monthly_parts": [
+     [
+      "kira",
+      13000,
+      false
+     ],
+     [
+      "poplatky",
+      500,
+      false
+     ]
+    ],
+    "movein": 39500,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13500,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      13000,
+      true
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      13000,
+      true
+     ]
+    ],
+    "questions": [
+     "Kauce kac aylik kira?",
+     "Komisyon tam olarak ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 91,
+   "available": null,
+   "charges_text": "1800",
+   "description": "POZOR, ZMĚNA! Volné: jeden pokoj pro jednu až dvě osoby. \n(Tzn. pokoj pro dvě osoby: Nájem 10.150,-Kč/pokoj + kauce 10.150,-Kč/pokoj + provize 12.282,-Kč/pokoj +  energie 1.800,-Kč/osoba)\n\nProstorný byt 4kk (91 m²) až pro 5 studentů – Praha Modřany\n\nNabízíme k pronájmu prostorný, světlý byt o dispozici 4kk a celkové ploše téměř 91 m², ideální až pro 5 studentů. Byt se nachází ve zvýšeném přízemí panelového domu v klidné a zelené části Prahy 12 – Modřany.\n\nDispozice bytu:\n- Obývací pokoj spojený s kuchyňským koutem\n- 4 samostatné pokoje\n- Velká vstupní chodba\n- Koupelna se sprchovým koutem\n- Samostatné WC\nLodžie\n\nByt prošel úpravami – jsou zde nové omítky a nově připravené přípojky na pračku. Celkově působí velmi čistě a útulně. Vhodné jako studentské spolubydlení – každý má dostatek soukromí i společného prostoru.\n\nLokalita:\nModřany nabízí plnou občanskou vybavenost – obchody, restaurace, kavárny, sportoviště i MHD v docházkové vzdálenosti. V okolí je dostatek zeleně i klid na studium.\n\nMožnost pronájmu i jednotlivých pokojů.\n\nEnergetický štítek zatím nebyl dodán, proto uvádíme třídu G dle zákona.\n\nPro více informací nebo domluvu prohlídky mě neváhejte kontaktovat.",
+   "district": "Modřany",
+   "furnished": "- vyber vybavení",
+   "id": "1513448012",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 15,
+   "photos_total": 15,
+   "positives": [],
+   "price_note": "Nájem 10.150,-Kč/pokoj + kauce 10.150,-Kč/pokoj + provize 12.282,-Kč/pokoj +  energie 1.800,-Kč/osoba.",
+   "rent": 10150.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-1513448012.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-modrany-hausmannova/1513448012",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": 12282,
+     "deposit": 10150,
+     "elec_included": false,
+     "electricity": 1800,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges"
+     ]
+    },
+    "monthly": 13950,
+    "monthly_parts": [
+     [
+      "kira",
+      10150,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik",
+      1800,
+      false
+     ]
+    ],
+    "movein": 36382,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13950,
+      false
+     ],
+     [
+      "kauce",
+      10150,
+      false
+     ],
+     [
+      "komisyon",
+      12282,
+      false
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 15,
+   "available": null,
+   "charges_text": "",
+   "description": "Pronájem neprůchozích, uzamykatelných samostatných ložnic s velkou 65 m2 terasou. Výhodou je velký obytný prostor celého bytu - k společnému užívání je vedle krásné terasy také obývací pokoj s kuchyní, koupelna. Byt o celkové rozloze 203 m², ulice Nad obcí I, Praha 4 - Krč. Cena pokoje: 9.000 + 3.000 Kč poplatky. Vratná kauce 12.000 Kč. Vysokorychlostní internet je již ceně nájmu.",
+   "district": "Krč",
+   "furnished": "- vyber vybavení",
+   "id": "903069276",
+   "is_room": true,
+   "layout": "Pokoj",
+   "photos_in_sheet": 9,
+   "photos_total": 9,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "Poplatky 3000 Kč na energie",
+   "rent": 9000.0,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/sreality-903069276.jpg",
+   "site": "sreality",
+   "title": null,
+   "url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/praha-krc-nad-obci-i/903069276",
+   "verdict": {
+    "assumptions": [
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "komisyon aciklanmamis -> 1 ciplak kira senaryosu (9000 Kc)"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 3000,
+     "commission": null,
+     "deposit": 12000,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "electricity",
+      "commission"
+     ]
+    },
+    "monthly": 13000,
+    "monthly_parts": [
+     [
+      "kira",
+      9000,
+      false
+     ],
+     [
+      "poplatky",
+      3000,
+      false
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 34000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13000,
+      false
+     ],
+     [
+      "kauce",
+      12000,
+      false
+     ],
+     [
+      "komisyon (1 kira varsayimi)",
+      9000,
+      true
+     ]
+    ],
+    "questions": [
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Komisyon tam olarak ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 45,
+   "available": "2026-08-24",
+   "charges_text": "1 000 K",
+   "description": "🇨🇿 Česky 🇬🇧 English Nabízím k pronájmu samostatný pokoj (~17m2) v bytě 2+kk v Praze 3 pro 1 osobu bez domácích zvířat. Byt je po rekonstrukci a je tichý a světlý s výhledem do dvora. Byt je uzpůsoben pro sdílené bydlení pro dvě osoby, je plně vybaven včetně zařízené koupelny s pračkou a kuchyně. K dispozici je také internet v ceně. V blízkosti pěti minut několik parků: Vítkov, Parukářka, Krejcarek, a Židovské pece a rovněž Kino Aero. Skvělá dopravní dostupnost - velmi dobré spojení s centrem autobusem i tramvají (jen několik zastávek na Václavské náměstí, na Florenc, atd.), nedaleko jsou zastávky metra tras A a B. Zastávky tramvaje a autobusu jsou jenom dvě minuty chůze od domu. Nájemné činí 9.000,-Kč za měsíc plus 1.000,- Kč měsíčně za služby a internet. Poplatky za energii jsou 1.500,-Kč za měsíc (plyn a elektřina). Je požadováno složení kauce ve výši jednoho měsíčního nájemného včetně energií a poplatků. Nice room for rent for 1 person only (with no pets) in a bright and quiet 2+kk flat facing the courtyard in Prague 3, sharing with one other person. The available bedroom is roughly 17m2 in size. The flat is renovated and fully-furnished, with hardwood/tile floors, complete kitchen with microwave, full bathroom, washing machine, and internet. Several parks are within a 5-minute walk - Vítkov, Parukářka, Krejcarek, a Židovské pece - as is Kino Aero. Transportation connections are excellent – various tram and bus lines run directly to the city center, only 10 minutes away (Wenceslas Square, Florenc, I.P. Pavlova etc.), and metro lines A and B are each only two stops by tram. Better still, the bus &amp; tram stops are only two minutes away by foot. Rent is CZK 9,000 per month plus CZK 1,000 monthly for service fees &amp; internet plus CZK 1,500 per month for utilities (gas &amp; electricity). A returnable security deposit equal to one month&#x27;s rent plus energy and fees is required.",
+   "district": "Biskupcova, Praha - Žižkov",
+   "furnished": "Vybaveno",
+   "id": "148894",
+   "is_room": true,
+   "layout": "DISP_2_KK",
+   "photos_in_sheet": 4,
+   "photos_total": 4,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "",
+   "rent": 9000,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-148894.jpg",
+   "site": "bezrealitky",
+   "title": "Biskupcova, Praha - Žižkov",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/148894-nabidka-pronajem-bytu-biskupcova",
+   "verdict": {
+    "assumptions": [
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 1500,
+     "commission": null,
+     "deposit": null,
+     "elec_included": true,
+     "electricity": 0,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 11500,
+    "monthly_parts": [
+     [
+      "kira",
+      9000,
+      false
+     ],
+     [
+      "poplatky",
+      2500,
+      false
+     ]
+    ],
+    "movein": 23000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      11500,
+      false
+     ],
+     [
+      "kauce",
+      11500,
+      false
+     ]
+    ],
+    "questions": [
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 20,
+   "available": "2025-06-15",
+   "charges_text": "2 500 K",
+   "description": "🇨🇿 Česky 🇬🇧 English Pronajmu vybavený neprůchozí POKOJ o velikosti 20m2 ul. Biskupcova, Žižkov. 10 min. autobus Florenc, 15 min trám Václavák. Park Vitkov - 200 m. Byt 2kk, koupelna a WC zvlášť, sdílená lednice, pračka, wi-fi. Hledám bezkonfliktního pracujícího kluka/studenta, nekuřáka. V druhém pokoji žiji já. Omezené možnosti pro vaření. Nájem včetně všech služeb a energií je 10 900,-Kč. Vratná kauce je 10 000,-Kč. Dlouhodobě. Evžen English speakers welcome! Furnished ROOM in Biskupcova street, Žižkov for a single man/student, 20m2, 10 min by bus to Florence, 15 min. by tram to Vaclavske namesti. Parks and forests nearby. Shared fridge, washing machine, WiFi. Non-smoking. One flatmate (me) in another room. 2nd floor. Limited cooking possibilities. 10 900 Kč monthly. 10 000 Kč deposit. Long-term only. Eugene English speakers welcome. Furnished ROOM in Biskupcova street, Žižkov for a single man/student, 20m2, 10 min by bus to Florence, 15 min. by tram to Vaclavske namesti. Shared fridge, washing machine, WiFi. Non-smoking. One flatmate (me) in another room. 2nd floor. Limited cooking possibilities. 10 400 Kč monthly. 10 000 Kč deposit. Long-term only. Eugene",
+   "district": "Biskupcova, Praha - Žižkov",
+   "furnished": "Vybaveno",
+   "id": "407578",
+   "is_room": true,
+   "layout": "DISP_2_KK",
+   "photos_in_sheet": 6,
+   "photos_total": 6,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "",
+   "rent": 8400,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-407578.jpg",
+   "site": "bezrealitky",
+   "title": "Biskupcova, Praha - Žižkov",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/407578-nabidka-pronajem-bytu-biskupcova",
+   "verdict": {
+    "assumptions": [
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 10900,
+     "commission": null,
+     "deposit": 10000,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "electricity",
+      "commission"
+     ]
+    },
+    "monthly": 11900,
+    "monthly_parts": [
+     [
+      "kira",
+      8400,
+      false
+     ],
+     [
+      "poplatky",
+      2500,
+      false
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 21900,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      11900,
+      false
+     ],
+     [
+      "kauce",
+      10000,
+      false
+     ]
+    ],
+    "questions": [
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 132,
+   "available": "2026-07-05",
+   "charges_text": "",
+   "description": "Nabízím pronájem formou spolubydlení v řadovém rodinném domku v Praze 8. Dům má čtyři podlaží. Pokoj je neprůchozí a plně vybaven. V bytě jsou dvě samostatné koupelny, dvě WC, větší kuchyň s jídelnou, obývací pokoj. Klidná lokalita na okraji Ďáblického háje, tichá ulice. Dostupnost MHD 7 min. autobusem na stanici metra Ládví nebo pěšky cca 15 minut. Jen nekuřák a bez domácích zvířat. K nastěhování ihned.",
+   "district": "K Ovčínu, Praha - Kobylisy",
+   "furnished": "Vybaveno",
+   "id": "434923",
+   "is_room": true,
+   "layout": "DISP_5_1",
+   "photos_in_sheet": 5,
+   "photos_total": 5,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "",
+   "rent": 8200,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-434923.jpg",
+   "site": "bezrealitky",
+   "title": "K Ovčínu, Praha - Kobylisy",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/434923-nabidka-pronajem-bytu-k-ovcinu-praha-8",
+   "verdict": {
+    "assumptions": [
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 11800,
+    "monthly_parts": [
+     [
+      "kira",
+      8200,
+      false
+     ],
+     [
+      "poplatky",
+      2600,
+      false
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 27800,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      11800,
+      false
+     ],
+     [
+      "kauce",
+      16000,
+      false
+     ]
+    ],
+    "questions": [
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 90,
+   "available": "2026-10-01",
+   "charges_text": "",
+   "description": "Hledáme náhradu za spolubydlícího do podkrovního bytu 3+1 v Praze 10 – Michli 🏠. S kamarádkou hledáme od 1.10. nového spolubydlícího nebo spolubydlící do bytu 3+1 v Praze 10 – Michli (Elektrárenská 983/5). Nabízíme samostatný neprůchozí pokoj v podkrovním bytě. V bytě se nachází celkem tři neprůchozí pokoje, společné prostory tvoří kuchyň, koupelna a chodba. V bytě je k dispozici běžné vybavení včetně pračky a myčky. Nabízený pokoj nebude vybavený. Měsíční nájem: 10 000 Kč včetně všech poplatků (navíc se platí pouze případné nedoplatky za energie). Nájem se platí měsíc předem. Něco o nás - je nám 24 let, oba pracujeme. Jsme spíše klidnější povahy a máme rádi svůj klid, proto hledáme někoho, kdo to má podobně. Jsme nekuřáci a v bytě máme dvě morčata 🐹 . Hledáme ideálně někoho v našem věku, studujícího nebo pracujícího člověka. Co se týče dopravy – nejblíže je autobusová zastávka Bohdalec, odkud je to jednu zastávku k OC Eden a tramvajovým spojům. Nejbližší metro je linka A – Želivského. Pokud tě nabídka zaujala, budeme rádi, když se ozveš a napíšeš nám něco o sobě.😇",
+   "district": "Elektrárenská, Praha - Michle",
+   "furnished": "Vybaveno",
+   "id": "1057842",
+   "is_room": true,
+   "layout": "DISP_3_1",
+   "photos_in_sheet": 3,
+   "photos_total": 3,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "",
+   "rent": 8700,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-1057842.jpg",
+   "site": "bezrealitky",
+   "title": "Elektrárenská, Praha - Michle",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1057842-nabidka-pronajem-bytu-elektrarenska-praha",
+   "verdict": {
+    "assumptions": [
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": true,
+     "charges": 0,
+     "commission": null,
+     "deposit": null,
+     "elec_included": true,
+     "electricity": 0,
+     "no_commission": false,
+     "notes": [
+      "ilan metni her seyin fiyata dahil oldugunu soyluyor"
+     ],
+     "unknown": [
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 8700,
+    "monthly_parts": [
+     [
+      "kira",
+      8700,
+      false
+     ]
+    ],
+    "movein": 17400,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      8700,
+      false
+     ],
+     [
+      "kauce",
+      8700,
+      false
+     ]
+    ],
+    "questions": [
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 12,
+   "available": "2026-08-19",
+   "charges_text": "2 500 K",
+   "description": "Nabízím k pronájmu samostatný, plně vybavený uzamykatelný pokoj (12 m²) s vlastním sociálním zařízením (sprchový kout a WC) v suterénu klidného rodinného domu v atraktivní lokalitě Praha 4 – Braník. Prostor poskytuje naprosté soukromí a je koncipován jako garsoniéra, avšak bez klasické kuchyňské linky (vhodné pro ty, kteří se stravují venku, v práci/menze nebo hledají stabilní zázemí k přespávání v Praze, prostor je uzpůsoben pouze pro rychlý ohřev jídla a přípravu nápojů). Pokoj má standardní okno zajišťující denní světlo a větrání a vede do klidné, udržované zahrady. Základní podmínky: • Určeno výhradně pro 1 osobu • Pouze pro nekuřáky • Bez domácích mazlíčků (vzhledem k velikosti prostoru) Vybavení pokoje: • Nábytek: nová pohodlná postel, šatní skříň, komoda, pracovní stůl, židle. • Elektro: TV, chladnička, mikrovlnná trouba, rychlovarná konvice • Společné prostory: Možnost využívat domovní prádelnu s pračkou a sušičkou (2× týdně za příplatek). Lokalita a dostupnost: Klidná čtvrť plná zeleně. Skvělá dostupnost na MHD – autobusová zastávka 5 minut chůze od domu (rychlé spojení na metro B Smíchovské nádraží, metro C Budějovická nebo tramvaje směr centrum). Finanční podmínky: • Čisté nájemné: 7 500 Kč / měsíc • Paušální poplatek za služby a energie: 2 500 Kč / měsíc (zahrnuje vodu, odpad, plyn a kompletní elektřinu včetně vytápění). • Konečná cena: 10 000 Kč / měsíc. Částka je fixní, na konci roku se nic nedoplácí. • Vratná kauce: 10 000 Kč. K nastěhování od ihned. INFORMACE PRO ZÁJEMCE O PROHLÍDKU: Vzhledem k velkému zájmu o bydlení v této lokalitě budu odpovídat pouze na zprávy, které obsahují krátké představení (kdo jste, zda v Praze studujete nebo pracujete a na jak dlouho podnájem plánujete). Reaguji pouze na zájemce s řádně vyplněným profilem. Poptávky typu „mám zájem o prohlídku“ bez jakýchkoliv informací budou automaticky vyřazeny. Děkuji za pochopení a respektování mého času.",
+   "district": "Vlnitá, Praha - Braník",
+   "furnished": "Vybaveno",
+   "id": "343484",
+   "is_room": false,
+   "layout": "GARSONIERA",
+   "photos_in_sheet": 9,
+   "photos_total": 9,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "",
+   "rent": 7500,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-343484.jpg",
+   "site": "bezrealitky",
+   "title": "Vlnitá, Praha - Braník",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/343484-nabidka-pronajem-bytu-vlnita",
+   "verdict": {
+    "assumptions": [
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": 2500,
+     "commission": null,
+     "deposit": 10000,
+     "elec_included": true,
+     "electricity": 0,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "commission"
+     ]
+    },
+    "monthly": 10000,
+    "monthly_parts": [
+     [
+      "kira",
+      7500,
+      false
+     ],
+     [
+      "poplatky",
+      2500,
+      false
+     ]
+    ],
+    "movein": 20000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      10000,
+      false
+     ],
+     [
+      "kauce",
+      10000,
+      false
+     ]
+    ],
+    "questions": [
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 14,
+   "available": "2026-06-01",
+   "charges_text": "",
+   "description": "Nabízíme k pronájmu garážové stání v ulici Geologická, Praha 5 – Hlubočepy. Stání je umístěno v samostatné uzamykatelné garážové budově. Cena: 2000 Kč/ měsíc Volné ihned.",
+   "district": "Geologická, Praha - Hlubočepy",
+   "furnished": "",
+   "id": "1030427",
+   "is_room": false,
+   "layout": "OSTATNI",
+   "photos_in_sheet": 3,
+   "photos_total": 3,
+   "positives": [
+    "gecissiz / kilitlenebilir ozel oda"
+   ],
+   "price_note": "",
+   "rent": 2000,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-1030427.jpg",
+   "site": "bezrealitky",
+   "title": "Geologická, Praha - Hlubočepy",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1030427-nabidka-pronajem-bytu-geologicka-praha",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "kauce aciklanmamis -> 1 ciplak kira senaryosu (2000 Kc)",
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 5000,
+    "monthly_parts": [
+     [
+      "kira",
+      2000,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 9000,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      5000,
+      false
+     ],
+     [
+      "kauce (1 kira varsayimi)",
+      2000,
+      true
+     ],
+     [
+      "idari ucret",
+      2000,
+      false
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Kauce kac aylik kira?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 120,
+   "available": "2026-09-01",
+   "charges_text": "",
+   "description": "🇨🇿 Česky 🇬🇧 English Nabízím pokoj pro 1 osobu v rámci bytu 120m2 jako spolubydlení se 2 lidmi kteří bydlí jednotlivěně v dalších 2 pokojích. Velký byt 3+kk s centrální halou je součástí vily po rekonstrukci se zahradou a terasou, v centru Prahy 5 - Radotín. Nová kuchyň, lednice, masážní vana, pračka na patře. 5 minut od domu MHD, 4 supermarkety, pošta, banka, večerka a další služby. Asi 5 minut od domu je vlak a autobus do centra. Metro je 8 minut vlakem, Hlavní nádraží 16 minut vlakem. V okolí příroda a sportovní vyžití - cyklostezky, tenisové kurty, plavecký bazén, sportovní hala, bowling vše 10 min pěšky od domu, Zateplený dům po kompletní rekonstrukci v r 2012, nová okna s trojskly, plynové vytápění. I offer a room for 1 person in a 120m2 apartment as a roommate with 2 people who live individually in 2 other rooms. Large 3+kk apartment with a central hall is part of a villa after reconstruction with a garden and terrace, in the center of Prague 5 - Radotín. New kitchen, refrigerator, massage bathtub, washing machine on the floor. 5 minutes from the house public transport, 4 supermarkets, post office, bank, convenience store and other services. About 5 minutes from the house there is a train and bus to the center. The metro is 8 minutes by train, the Main Station 16 minutes by train. Nature and sports activities in the area - cycle paths, tennis courts, swimming pool, sports hall, bowling all 10 minutes walk from the house, Insulated house after complete reconstruction in 2012, new windows with triple glazing, gas heating. Cohabitation in a separate room of 30m2 with 2 young people who live separately in another 2 rooms. Large apartment 4+kk with a central hall, 120m2 in the center of Prague 5 - Radotín. New kitchen, fridge, hot tub, washing machine upstairs. 5 minutes from the house public transport, 4 supermarkets, post office, bank, convenience store and other services. There is a train and bus to the center about 7 minutes from the house. The subway is 8 minutes by train, the Main Station is 16 minutes by train. Nature and sports nearby - bike paths, tennis courts, swimming pool, sports hall, bowling, all 10 minutes&#x27; walk from the house, insulated house after complete reconstruction in 2012, new triple-glazed windows, gas heating.",
+   "district": "Na Betonce, Praha - Radotín",
+   "furnished": "Vybaveno",
+   "id": "766453",
+   "is_room": true,
+   "layout": "DISP_3_KK",
+   "photos_in_sheet": 7,
+   "photos_total": 7,
+   "positives": [
+    "ilan Ingilizce iletisime acik"
+   ],
+   "price_note": "",
+   "rent": 8000,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-766453.jpg",
+   "site": "bezrealitky",
+   "title": "Na Betonce, Praha - Radotín",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/766453-nabidka-pronajem-bytu-na-betonce-praha",
+   "verdict": {
+    "assumptions": [
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 13900,
+    "monthly_parts": [
+     [
+      "kira",
+      8000,
+      false
+     ],
+     [
+      "poplatky",
+      4900,
+      false
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 33900,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      13900,
+      false
+     ],
+     [
+      "kauce",
+      20000,
+      false
+     ]
+    ],
+    "questions": [
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Oda tek kisiye ozel ve gecis odasi degil mi? (metin teyit etmiyor)",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  },
+  {
+   "area": 14,
+   "available": "2026-06-21",
+   "charges_text": "",
+   "description": "Nabízím k pronájmu vybavený 1+kk pokoj (viz. foto) o rozloze 14 m², který se nachází v rodinném domě. Nemovitost je v dobrém stavu a je určena k samostatnému bydlení pro 1 osobu. Dům se nachází v klidném prostředí s dostupným parkováním, což výrazně zvyšuje komfort bydlení. V případě zájmu o prohlídku mne neváhejte kontaktovat prostřednictvím zpráv na komunikační platformě.",
+   "district": "Praha - Slivenec",
+   "furnished": "Vybaveno",
+   "id": "1037096",
+   "is_room": false,
+   "layout": "DISP_1_KK",
+   "photos_in_sheet": 6,
+   "photos_total": 6,
+   "positives": [],
+   "price_note": "",
+   "rent": 9999,
+   "report_reason": "daha once bildirilmemis",
+   "sheet": "runs/2026-08-22T1206/sheets/bezrealitky-1037096.jpg",
+   "site": "bezrealitky",
+   "title": "Praha - Slivenec",
+   "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1037096-nabidka-pronajem-bytu-praha",
+   "verdict": {
+    "assumptions": [
+     "poplatky aciklanmamis -> 2000 Kc muhafazakar varsayim",
+     "elektrik aciklanmamis -> 1000 Kc/ay eklendi",
+     "Bezrealitky komisyonsuz - idari ucret ayrica hesaba katildi"
+    ],
+    "fees": {
+     "admin": null,
+     "all_inclusive": false,
+     "charges": null,
+     "commission": null,
+     "deposit": null,
+     "elec_included": false,
+     "electricity": null,
+     "no_commission": false,
+     "notes": [],
+     "unknown": [
+      "charges",
+      "electricity",
+      "deposit",
+      "commission"
+     ]
+    },
+    "monthly": 12999,
+    "monthly_parts": [
+     [
+      "kira",
+      9999,
+      false
+     ],
+     [
+      "poplatky (varsayim)",
+      2000,
+      true
+     ],
+     [
+      "elektrik (varsayim)",
+      1000,
+      true
+     ]
+    ],
+    "movein": 14999,
+    "movein_parts": [
+     [
+      "ilk ay (tam toplam)",
+      12999,
+      false
+     ],
+     [
+      "kauce",
+      2000,
+      false
+     ]
+    ],
+    "questions": [
+     "Poplatky tam olarak ne kadar?",
+     "Elektrik poplatky'ye dahil mi, degilse aylik ne kadar?",
+     "Potvrzeni o zajisteni ubytovani verilebiliyor mu? (yazili teyit)"
+    ],
+    "reasons": [],
+    "status": "KOSULLU"
+   }
+  }
+ ],
+ "run_id": "2026-08-22T1206",
+ "runs": [
+  {
+   "error": null,
+   "id": 4,
+   "new": 8,
+   "passed": 11,
+   "scanned": 136,
+   "site": "bezrealitky",
+   "started_at": 1787400565
+  },
+  {
+   "error": null,
+   "id": 3,
+   "new": 15,
+   "passed": 19,
+   "scanned": 71,
+   "site": "sreality",
+   "started_at": 1787400454
+  },
+  {
+   "error": null,
+   "id": 2,
+   "new": 9,
+   "passed": 12,
+   "scanned": 135,
+   "site": "bezrealitky",
+   "started_at": 1787391895
+  },
+  {
+   "error": null,
+   "id": 1,
+   "new": 15,
+   "passed": 19,
+   "scanned": 71,
+   "site": "sreality",
+   "started_at": 1787391777
+  }
+ ]
+}
